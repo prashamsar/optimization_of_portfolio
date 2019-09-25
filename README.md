@@ -1,1 +1,1 @@
-#simple optiimzation problem
+#simple optimization problem
